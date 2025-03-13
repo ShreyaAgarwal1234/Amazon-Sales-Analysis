@@ -39,5 +39,7 @@ This project analyzes **Amazon sales data** to uncover insights into customer be
 - **Shreya ** – Data Analyst Enthusiast
 - GitHub: [github.com/ShreyaAgarwal1234](https://github.com/ShreyaAgarwal1234)
 
+** For dataset use this link https://drive.google.com/drive/folders/16tgPo3Hexc_-x5UniUtGnytz9HlG1KkD **
+
 
 
